@@ -8,7 +8,7 @@ function App() {
     <div className='flex flex-col'>
         <Navbar/>
         <main className=''>
-          <h1>BATTLEGROUND</h1>
+          <h1 className='bg-sky-500'>BATTLEGROUND</h1>
         </main>
         <Footer/>
     </div>
